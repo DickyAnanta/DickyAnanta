@@ -1,4 +1,4 @@
-## Hi there 👋
+![Dicky Ananta]{github-header-banner.png}
 
 <!--
 **DickyAnanta/DickyAnanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
